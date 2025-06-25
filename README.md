@@ -1,4 +1,4 @@
-#Student Record Management System
+*Student Record Management System
 A command-line interface (CLI) application built in Java to manage student records with full CRUD (Create, Read, Update, Delete) functionality. This project demonstrates object-oriented programming principles, data structure usage (ArrayList), and modular design with a clear separation of concerns.
 
 ##Table of Contents:
